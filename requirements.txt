@@ -1,0 +1,8 @@
+# Local environment for editing the notebook and running the analysis cells (sections 7-9).
+# The TRIBE v2 model itself runs on a CUDA GPU (e.g. Kaggle T4); the notebook builds that
+# environment on its own with uv.
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
